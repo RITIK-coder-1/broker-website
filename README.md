@@ -6,9 +6,10 @@ This is the official website for LIQUID, a multi-regulated global broker. The we
 ## Table of Contents
 - [Usage](#usage)
 - [Features](#features)
-- [Overview] (#overview)
+- [Overview](#overview)
 - [SKILLS/TOOLS-Involded](#SKILLS/TOOLS-Involded)
-- [Contact] (#contact)
+- [Contact](#contact)
+
 
 ## Usage
 
