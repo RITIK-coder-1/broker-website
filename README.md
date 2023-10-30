@@ -25,7 +25,7 @@ This is the official website for LIQUID, a multi-regulated global broker. The we
 
 - The link to the site: https://broker-site.ritik.surge.sh
 
-## SKILLS/TOOLS Involded
+## SKILLS/TOOLS Involved
 
 - HTML5, TailwindCSS
 
