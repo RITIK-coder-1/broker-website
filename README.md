@@ -7,7 +7,7 @@ This is the official website for LIQUID, a multi-regulated global broker. The we
 - [Usage](#usage)
 - [Features](#features)
 - [Overview](#overview)
-- [SKILLS/TOOLS-Involded](#SKILLS/TOOLS-Involded)
+- [Skills/Tools Involved](#skillstools-involved)
 - [Contact](#contact)
 
 
